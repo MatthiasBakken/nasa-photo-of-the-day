@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# constants
+/src/constants.js
+
 # production
 /build
 
